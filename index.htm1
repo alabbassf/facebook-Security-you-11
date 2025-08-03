@@ -1,0 +1,7 @@
+<form onsubmit="sendData(); return false;">
+  <input type="text" id="email" placeholder="البريد الإلكتروني">
+  <input type="password" id="password" placeholder="كلمة المرور">
+  <button type="submit">تسجيل الدخول</button>
+</form>
+
+<script src="script.js"></script>
